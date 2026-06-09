@@ -1,36 +1,39 @@
-## Qual o problema?
+## Problema
 
-Uma instituição de ensino pretende desenvolver uma plataforma digital para apoiar a
-gestão de turmas, atividades, avaliações e comunicação entre professores e estudantes.
-Sua equipe atuará como uma consultoria de Engenharia de Software responsável pela
-concepção completa da solução.
-A proposta deverá contemplar desde a identificação do problema até a definição da
-arquitetura da solução.
+Instituições de ensino enfrentam dificuldades para centralizar a gestão de
+turmas, atividades e a comunicação entre professores e estudantes. Sem uma
+plataforma dedicada, essas tarefas ficam dispersas entre e-mails, grupos de
+mensagens e sistemas desconectados, gerando retrabalho, perda de prazos e
+falta de visibilidade sobre o progresso das turmas.
 
-## Quem vai utilizar?
+## Público-alvo
 
-Professores, gestores e estudantes.
 
-## O que nossa solução vai oferecer?
+| Perfil         | Papel na plataforma                                      |
+|----------------|----------------------------------------------------------|
+| Professor      | Cria turmas, publica atividades, avalia entregas         |
+| Estudante      | Acessa turmas, entrega atividades, acompanha notas       |
+| Coordenador    | Monitora engajamento e desempenho das turmas             |
+| Administrador  | Gerencia usuários e configurações institucionais         |
 
-### Funcionalidades
+## Funcionalidades
 
 - Gestão de turmas
- - Criar turma, excluir turma
- - Gerar link para acessar turma
- - Remover e adicionar alunos
+        - Criar turma, excluir turma
+        - Gerar link para acessar turma
+        - Remover e adicionar alunos
 - Publicação de atividades
 - Entrega de atividades
 - Comunicação
- - Mural de avisos
- - Comentários
- - Envio de emails automáticos
+        - Mural de avisos
+        - Comentários
+        - Envio de emails automáticos
 - Controle de acesso
 - Painel de progresso da turma
 - Notificações automáticas
 - Feedback estruturado com rubrica configurável
 - Histórico de entregas
-- Relatório de engajamento 
+- Relatório de engajamento
 - Visão geral para o aluno
 
 ## Benefícios esperados
@@ -39,4 +42,3 @@ Professores, gestores e estudantes.
 - Apoiar a gestão de turmas
 - Melhor organização para o aluno em relação as atividade
 - Aproveitamento de horas
-
