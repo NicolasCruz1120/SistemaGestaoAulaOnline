@@ -1,4 +1,4 @@
-## 7.4 User Stories
+## User Stories
 
 ### US01 – Criar Atividade
 

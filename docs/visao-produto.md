@@ -59,22 +59,30 @@ Desenvolver uma plataforma digital centralizada para gestão de sala de aula onl
 * Proporcionar um ambiente colaborativo para interação acadêmica em tempo real.
 
 ---
-
 ## Funcionalidade Inovadora
 
-Como diferencial da solução, o sistema contará com uma Sala Interativa Colaborativa.
+Como diferencial da solução, o sistema contará com uma **Sala Virtual Interativa**.
 
-Essa funcionalidade permitirá que professores e alunos participem de aulas em tempo real utilizando um quadro digital compartilhado. Durante a aula, os participantes poderão:
+Essa funcionalidade permitirá que professores e alunos participem de aulas ao
+vivo diretamente pela plataforma, sem necessidade de ferramentas externas como
+Google Meet ou Zoom. O diferencial não é a videochamada em si, mas as
+ferramentas pedagógicas nativas em tempo real:
 
-* Escrever textos no quadro;
-* Realizar desenhos e anotações;
-* Fazer perguntas em tempo real;
-* Responder exercícios propostos pelo professor;
-* Compartilhar ideias de forma colaborativa;
-* Interagir simultaneamente no mesmo ambiente virtual.
+* **Enquetes ao vivo** — professor lança perguntas e o resultado aparece
+  instantaneamente para todos os participantes
+* **Fila de perguntas** — estudante levanta a mão digitalmente e o professor
+  gerencia quem fala
+* **Reações em tempo real** — estudante sinaliza se entendeu ou está com
+  dúvida sem interromper a aula
+* **Quadro branco colaborativo** — professor e estudantes (quando liberado)
+  escrevem e desenham juntos no mesmo ambiente
+* **Registro automático de presença** — ao entrar na sala, a presença é
+  registrada na turma sem intervenção manual
+* **Gravação da sessão** — aula fica disponível na turma para revisão posterior
 
-O objetivo é tornar as aulas online mais dinâmicas, participativas e próximas da experiência de uma sala de aula presencial.
-
+O objetivo é tornar as aulas online mais dinâmicas, participativas e próximas
+da experiência de uma sala de aula presencial, mantendo tudo centralizado na
+plataforma.
 ---
 
 ## Benefícios Esperados
